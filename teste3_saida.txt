@@ -1,0 +1,24 @@
+Corretor 1
+09:02 Imóvel 1
+10:17 Imóvel 6
+11:32 Imóvel 11
+
+Corretor 2
+09:02 Imóvel 2
+10:17 Imóvel 7
+11:32 Imóvel 12
+
+Corretor 3
+09:02 Imóvel 3
+10:17 Imóvel 8
+11:32 Imóvel 13
+
+Corretor 4
+09:02 Imóvel 4
+10:17 Imóvel 9
+11:32 Imóvel 14
+
+Corretor 6
+09:02 Imóvel 5
+10:17 Imóvel 10
+11:32 Imóvel 15
